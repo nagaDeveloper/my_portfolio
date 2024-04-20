@@ -1,0 +1,22 @@
+body{
+    background-color: #ebf5f3;
+}
+
+.home{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.2)), url('../images/Screenshot\ 2024-04-20\ 214318.png');
+    background-size: cover;
+}
+
+.intro{
+    color: bisque;
+    padding: 10% 20%;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.name{
+    font-size: 5em;
+    font-weight: 500;
+}
