@@ -4,7 +4,7 @@ body{
 
 .home{
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.2)), url('../images/Screenshot\ 2024-04-20\ 214318.png');
+    background: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.2)), url('../images/technology.png');
     background-size: cover;
 }
 
@@ -17,6 +17,6 @@ body{
 }
 
 .name{
-    font-size: 5em;
+    font-size: 4em;
     font-weight: 500;
 }
