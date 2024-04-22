@@ -20,3 +20,7 @@ body{
     font-size: 4em;
     font-weight: 500;
 }
+
+.pad{
+    padding: 10px;
+}
